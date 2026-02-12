@@ -8,7 +8,7 @@ A modern, responsive personal portfolio website built with React, TypeScript, an
 - **Light/Dark Mode** - Theme toggle with semantic color variables
 - **Modern UI** - Clean design with smooth animations and hover effects
 - **Project Carousel** - Interactive showcase of projects with navigation
-- **Contact Form** - Name and message inputs with social media links
+- **Contact Form** - Formspree integration for receiving messages, with social media links
 - **Skills Section** - Alternating grid layout highlighting education, technical skills, and teamwork
 
 ## Tech Stack
@@ -17,6 +17,7 @@ A modern, responsive personal portfolio website built with React, TypeScript, an
 - **TypeScript** - Type safety
 - **Vite 7** - Build tool and dev server
 - **CSS Variables** - Theming and design system
+- **Formspree** - Contact form backend
 - **ESLint** - Code linting
 
 ## Project Structure
@@ -88,6 +89,7 @@ The portfolio uses CSS custom properties for consistent theming:
 
 ### Breakpoints
 
+- Extra small mobile: < 360px
 - Mobile: < 480px
 - Tablet: < 768px
 - Desktop: < 1440px
